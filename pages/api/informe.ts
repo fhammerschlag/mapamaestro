@@ -1,0 +1,1 @@
+// API: genera el texto del informe desde OpenAI

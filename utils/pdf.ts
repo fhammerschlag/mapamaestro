@@ -1,0 +1,1 @@
+// Utilidad para convertir texto en PDF con html-pdf o pdfkit
