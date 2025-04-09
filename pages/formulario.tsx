@@ -1,1 +1,0 @@
-// Página con el formulario para ingresar datos
