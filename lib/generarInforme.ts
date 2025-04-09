@@ -1,1 +1,0 @@
-// Prompt + llamada a OpenAI
