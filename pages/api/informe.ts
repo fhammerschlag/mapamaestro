@@ -1,0 +1,1 @@
+// Genera texto desde GPT
