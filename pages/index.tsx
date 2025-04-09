@@ -1,5 +1,7 @@
 import Head from 'next/head'
-import Formulario from '../components/Formulario'
+import dynamic from 'next/dynamic'
+
+const Formulario = dynamic(() => import('../components/Formulario'), { ssr: false })
 
 export default function Home() {
   return (
