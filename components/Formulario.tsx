@@ -1,1 +1,0 @@
-// Componente React del formulario
