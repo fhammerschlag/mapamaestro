@@ -1,1 +1,1 @@
-// API: recibe el texto generado y devuelve un PDF para descargar
+// Convierte texto en PDF

@@ -1,1 +1,1 @@
-// Prompt y llamada a OpenAI (modelo GPT-4)
+// Prompt + llamada a OpenAI

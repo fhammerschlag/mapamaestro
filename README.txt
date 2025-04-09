@@ -1,10 +1,13 @@
-MAPA MAESTRO DEL DESTINO - VERSIÓN OPTIMIZADA
+PROYECTO NEXT.JS - MAPA MAESTRO DEL DESTINO
 
-✅ Evita errores 502/504 de Vercel
-✅ Genera primero el texto del informe con OpenAI
-✅ Luego lo convierte en PDF por separado
-✅ Usa funciones serverless normales, no edge
-✅ Listo para desplegar en GitHub + Vercel sin fallos
+✅ Proyecto completo funcional
+✅ Compatible con GitHub + Vercel
+✅ Listo para conexión con OpenAI (API)
+✅ Incluye backend y generación de PDF por partes
 
-Recordá configurar:
-- Variable de entorno: OPENAI_API_KEY
+Recordá:
+1. Configurar variable de entorno OPENAI_API_KEY en Vercel
+2. Usar el formulario para generar el informe
+3. Descargar el PDF después
+
+Vamos con todo.

@@ -1,1 +1,1 @@
-// Componente React del formulario con validaciones
+// Componente React del formulario
