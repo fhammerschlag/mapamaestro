@@ -1,0 +1,1 @@
+// Función para generar el PDF desde el HTML generado por OpenAI
